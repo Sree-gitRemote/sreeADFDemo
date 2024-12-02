@@ -1,0 +1,9 @@
+{
+	"name": "adfGitDemo1",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9810c4e5-5c78-4611-acb1-2bd16f4d5a2d",
+		"tenantId": "292664f0-28c9-4ce0-a7fa-97b2b9cddd00"
+	}
+}
