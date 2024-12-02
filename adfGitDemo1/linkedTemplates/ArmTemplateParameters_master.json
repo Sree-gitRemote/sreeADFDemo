@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "adfGitDemo1"
 		},
+		"ls_test1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
